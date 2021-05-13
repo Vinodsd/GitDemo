@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite" duration-ms="329" started-at="2021-03-16T23:24:48 IST" finished-at="2021-03-16T23:24:48 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="329" started-at="2021-03-16T23:24:48 IST" finished-at="2021-03-16T23:24:48 IST">
+      <class name="qaclickacademy.RestAPITest">
+        <test-method status="PASS" signature="PostJiraTest()[pri:0, instance:qaclickacademy.RestAPITest@a7e666]" name="PostJiraTest" duration-ms="1" started-at="2021-03-16T23:24:48 IST" finished-at="2021-03-16T23:24:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJiraTest -->
+        <test-method status="PASS" signature="deleteTwitterTest()[pri:0, instance:qaclickacademy.RestAPITest@a7e666]" name="deleteTwitterTest" duration-ms="1" started-at="2021-03-16T23:24:48 IST" finished-at="2021-03-16T23:24:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitterTest -->
+      </class> <!-- qaclickacademy.RestAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="MukthaAutomationTest()[pri:0, instance:qaclickacademy.SeleniumTest@d2dae5]" name="MukthaAutomationTest" duration-ms="52" started-at="2021-03-16T23:24:48 IST" finished-at="2021-03-16T23:24:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MukthaAutomationTest -->
+        <test-method status="PASS" signature="VinodAutomationTest()[pri:0, instance:qaclickacademy.SeleniumTest@d2dae5]" name="VinodAutomationTest" duration-ms="4" started-at="2021-03-16T23:24:48 IST" finished-at="2021-03-16T23:24:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VinodAutomationTest -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- suite -->
+</testng-results>
